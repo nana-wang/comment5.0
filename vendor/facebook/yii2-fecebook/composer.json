@@ -1,0 +1,22 @@
+{
+    "name": "facebook/yii2-facebook",
+    "description": "Package insert",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," curl", "RESTful"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nils Gajsek",
+            "email": "info@linslin.org"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "linslin\\yii2\\curl\\": ""
+        }
+    }
+}

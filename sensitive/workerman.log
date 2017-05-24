@@ -1,0 +1,586 @@
+2017-03-16 10:59:30 pid:2546 Workerman[t.php] start in DEBUG mode
+2017-03-16 10:59:33 pid:2547 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:33 pid:2546 worker[none:2547] exit with status 65280
+2017-03-16 10:59:34 pid:2549 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:34 pid:2546 worker[none:2549] exit with status 65280
+2017-03-16 10:59:34 pid:2548 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:34 pid:2546 worker[none:2548] exit with status 65280
+2017-03-16 10:59:35 pid:2550 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:35 pid:2546 worker[none:2550] exit with status 65280
+2017-03-16 10:59:35 pid:2552 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:35 pid:2546 worker[none:2552] exit with status 65280
+2017-03-16 10:59:35 pid:2553 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:35 pid:2546 worker[none:2553] exit with status 65280
+2017-03-16 10:59:36 pid:2551 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:36 pid:2546 worker[none:2551] exit with status 65280
+2017-03-16 10:59:36 pid:2554 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:36 pid:2546 worker[none:2554] exit with status 65280
+2017-03-16 10:59:36 pid:2555 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:37 pid:2546 worker[none:2555] exit with status 65280
+2017-03-16 10:59:37 pid:2556 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:37 pid:2546 worker[none:2556] exit with status 65280
+2017-03-16 10:59:37 pid:2557 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:37 pid:2546 worker[none:2557] exit with status 65280
+2017-03-16 10:59:38 pid:2558 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:38 pid:2546 worker[none:2558] exit with status 65280
+2017-03-16 10:59:38 pid:2559 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:38 pid:2546 worker[none:2559] exit with status 65280
+2017-03-16 10:59:38 pid:2560 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:38 pid:2546 worker[none:2560] exit with status 65280
+2017-03-16 10:59:39 pid:2561 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:39 pid:2546 worker[none:2561] exit with status 65280
+2017-03-16 10:59:39 pid:2562 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:39 pid:2546 worker[none:2562] exit with status 65280
+2017-03-16 10:59:39 pid:2563 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:39 pid:2546 worker[none:2563] exit with status 65280
+2017-03-16 10:59:40 pid:2564 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:40 pid:2546 worker[none:2564] exit with status 65280
+2017-03-16 10:59:40 pid:2565 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:40 pid:2546 worker[none:2565] exit with status 65280
+2017-03-16 10:59:41 pid:2566 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:41 pid:2546 worker[none:2566] exit with status 65280
+2017-03-16 10:59:41 pid:2567 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:41 pid:2546 worker[none:2567] exit with status 65280
+2017-03-16 10:59:41 pid:2568 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:41 pid:2546 worker[none:2568] exit with status 65280
+2017-03-16 10:59:42 pid:2569 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:42 pid:2546 worker[none:2569] exit with status 65280
+2017-03-16 10:59:42 pid:2570 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:42 pid:2546 worker[none:2570] exit with status 65280
+2017-03-16 10:59:42 pid:2571 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:42 pid:2546 worker[none:2571] exit with status 65280
+2017-03-16 10:59:43 pid:2572 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:43 pid:2546 worker[none:2572] exit with status 65280
+2017-03-16 10:59:43 pid:2573 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:43 pid:2546 worker[none:2573] exit with status 65280
+2017-03-16 10:59:43 pid:2574 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:43 pid:2546 worker[none:2574] exit with status 65280
+2017-03-16 10:59:44 pid:2575 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:44 pid:2546 worker[none:2575] exit with status 65280
+2017-03-16 10:59:44 pid:2576 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:44 pid:2546 worker[none:2576] exit with status 65280
+2017-03-16 10:59:44 pid:2577 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:45 pid:2546 worker[none:2577] exit with status 65280
+2017-03-16 10:59:45 pid:2578 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:45 pid:2546 worker[none:2578] exit with status 65280
+2017-03-16 10:59:45 pid:2579 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:45 pid:2546 worker[none:2579] exit with status 65280
+2017-03-16 10:59:46 pid:2580 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:46 pid:2546 worker[none:2580] exit with status 65280
+2017-03-16 10:59:46 pid:2583 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:46 pid:2546 worker[none:2583] exit with status 65280
+2017-03-16 10:59:46 pid:2582 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:46 pid:2546 worker[none:2582] exit with status 65280
+2017-03-16 10:59:47 pid:2581 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:47 pid:2546 worker[none:2581] exit with status 65280
+2017-03-16 10:59:47 pid:2586 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:47 pid:2546 worker[none:2586] exit with status 65280
+2017-03-16 10:59:48 pid:2585 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:48 pid:2546 worker[none:2585] exit with status 65280
+2017-03-16 10:59:48 pid:2584 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:48 pid:2546 worker[none:2584] exit with status 65280
+2017-03-16 10:59:48 pid:2588 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:48 pid:2546 worker[none:2588] exit with status 65280
+2017-03-16 10:59:49 pid:2589 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:49 pid:2546 worker[none:2589] exit with status 65280
+2017-03-16 10:59:49 pid:2587 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:49 pid:2546 worker[none:2587] exit with status 65280
+2017-03-16 10:59:49 pid:2592 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:49 pid:2546 worker[none:2592] exit with status 65280
+2017-03-16 10:59:50 pid:2593 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:50 pid:2546 worker[none:2593] exit with status 65280
+2017-03-16 10:59:50 pid:2591 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:50 pid:2546 worker[none:2591] exit with status 65280
+2017-03-16 10:59:50 pid:2590 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:50 pid:2546 worker[none:2590] exit with status 65280
+2017-03-16 10:59:51 pid:2594 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:51 pid:2546 worker[none:2594] exit with status 65280
+2017-03-16 10:59:51 pid:2595 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:51 pid:2546 worker[none:2595] exit with status 65280
+2017-03-16 10:59:52 pid:2596 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:52 pid:2546 worker[none:2596] exit with status 65280
+2017-03-16 10:59:52 pid:2597 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:52 pid:2546 worker[none:2597] exit with status 65280
+2017-03-16 10:59:52 pid:2599 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:52 pid:2546 worker[none:2599] exit with status 65280
+2017-03-16 10:59:53 pid:2598 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:53 pid:2546 worker[none:2598] exit with status 65280
+2017-03-16 10:59:53 pid:2600 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:53 pid:2546 worker[none:2600] exit with status 65280
+2017-03-16 10:59:53 pid:2601 WORKER EXIT UNEXPECTED E_ERROR Call to a member function cookie() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 10:59:53 pid:2546 Workerman[t.php] Stopping ...
+2017-03-16 10:59:53 pid:2546 worker[none:2601] exit with status 65280
+2017-03-16 10:59:53 pid:2546 Workerman[t.php] has been stopped
+2017-03-16 11:01:11 pid:2607 Workerman[t.php] start in DEBUG mode
+2017-03-16 11:01:15 pid:2608 WORKER EXIT UNEXPECTED E_ERROR Call to a member function end() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 36
+2017-03-16 11:01:15 pid:2607 worker[none:2608] exit with status 65280
+2017-03-16 11:01:15 pid:2611 WORKER EXIT UNEXPECTED E_ERROR Call to a member function end() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 36
+2017-03-16 11:01:15 pid:2607 worker[none:2611] exit with status 65280
+2017-03-16 11:01:15 pid:2612 WORKER EXIT UNEXPECTED E_ERROR Call to a member function end() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 36
+2017-03-16 11:01:15 pid:2607 worker[none:2612] exit with status 65280
+2017-03-16 11:01:16 pid:2613 WORKER EXIT UNEXPECTED E_ERROR Call to a member function end() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 36
+2017-03-16 11:01:16 pid:2607 worker[none:2613] exit with status 65280
+2017-03-16 11:01:16 pid:2614 WORKER EXIT UNEXPECTED E_ERROR Call to a member function end() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 36
+2017-03-16 11:01:16 pid:2607 worker[none:2614] exit with status 65280
+2017-03-16 11:01:16 pid:2615 WORKER EXIT UNEXPECTED E_ERROR Call to a member function end() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 36
+2017-03-16 11:01:16 pid:2607 worker[none:2615] exit with status 65280
+2017-03-16 11:01:17 pid:2609 WORKER EXIT UNEXPECTED E_ERROR Call to a member function end() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 36
+2017-03-16 11:01:17 pid:2607 worker[none:2609] exit with status 65280
+2017-03-16 11:01:17 pid:2610 WORKER EXIT UNEXPECTED E_ERROR Call to a member function end() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 36
+2017-03-16 11:01:17 pid:2607 worker[none:2610] exit with status 65280
+2017-03-16 11:01:17 pid:2616 WORKER EXIT UNEXPECTED E_ERROR Call to a member function end() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 36
+2017-03-16 11:01:17 pid:2607 worker[none:2616] exit with status 65280
+2017-03-16 11:01:18 pid:2619 WORKER EXIT UNEXPECTED E_ERROR Call to a member function end() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 36
+2017-03-16 11:01:18 pid:2607 worker[none:2619] exit with status 65280
+2017-03-16 11:01:18 pid:2618 WORKER EXIT UNEXPECTED E_ERROR Call to a member function end() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 36
+2017-03-16 11:01:18 pid:2607 worker[none:2618] exit with status 65280
+2017-03-16 11:01:18 pid:2617 WORKER EXIT UNEXPECTED E_ERROR Call to a member function end() on null in /opt/webroot/htdocs/focus/sensitive/t.php on line 36
+2017-03-16 11:01:18 pid:2607 worker[none:2617] exit with status 65280
+2017-03-16 11:01:18 pid:2607 Workerman[t.php] Stopping ...
+2017-03-16 11:01:18 pid:2607 Workerman[t.php] has been stopped
+2017-03-16 11:03:31 pid:2625 Workerman[t.php] start in DEBUG mode
+2017-03-16 11:03:33 pid:2626 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 11:03:33 pid:2625 worker[none:2626] exit with status 65280
+2017-03-16 11:03:34 pid:2629 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 11:03:34 pid:2625 worker[none:2629] exit with status 65280
+2017-03-16 11:03:34 pid:2627 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 11:03:34 pid:2625 worker[none:2627] exit with status 65280
+2017-03-16 11:03:34 pid:2630 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 11:03:34 pid:2625 worker[none:2630] exit with status 65280
+2017-03-16 11:03:35 pid:2628 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 11:03:35 pid:2625 worker[none:2628] exit with status 65280
+2017-03-16 11:03:35 pid:2633 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 11:03:35 pid:2625 worker[none:2633] exit with status 65280
+2017-03-16 11:03:35 pid:2632 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 11:03:35 pid:2625 worker[none:2632] exit with status 65280
+2017-03-16 11:03:36 pid:2631 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 11:03:36 pid:2625 worker[none:2631] exit with status 65280
+2017-03-16 11:03:36 pid:2634 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 11:03:36 pid:2625 worker[none:2634] exit with status 65280
+2017-03-16 11:03:36 pid:2635 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 11:03:36 pid:2625 worker[none:2635] exit with status 65280
+2017-03-16 11:03:37 pid:2636 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 11:03:37 pid:2625 worker[none:2636] exit with status 65280
+2017-03-16 11:03:37 pid:2637 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 11:03:37 pid:2625 worker[none:2637] exit with status 65280
+2017-03-16 11:03:37 pid:2638 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 11:03:37 pid:2625 worker[none:2638] exit with status 65280
+2017-03-16 11:03:38 pid:2639 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 11:03:38 pid:2625 worker[none:2639] exit with status 65280
+2017-03-16 11:03:38 pid:2640 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 11:03:38 pid:2625 worker[none:2640] exit with status 65280
+2017-03-16 11:03:38 pid:2641 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 11:03:38 pid:2625 worker[none:2641] exit with status 65280
+2017-03-16 11:03:39 pid:2642 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 11:03:39 pid:2625 worker[none:2642] exit with status 65280
+2017-03-16 11:03:39 pid:2643 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 11:03:39 pid:2625 worker[none:2643] exit with status 65280
+2017-03-16 11:03:39 pid:2644 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 35
+2017-03-16 11:03:39 pid:2625 worker[none:2644] exit with status 65280
+2017-03-16 11:03:40 pid:2625 Workerman[t.php] Stopping ...
+2017-03-16 11:03:40 pid:2625 Workerman[t.php] has been stopped
+2017-03-16 11:04:57 pid:2650 Workerman[t.php] start in DEBUG mode
+2017-03-16 11:04:58 pid:2651 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:04:58 pid:2650 worker[none:2651] exit with status 65280
+2017-03-16 11:04:59 pid:2654 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:04:59 pid:2650 worker[none:2654] exit with status 65280
+2017-03-16 11:04:59 pid:2655 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:04:59 pid:2650 worker[none:2655] exit with status 65280
+2017-03-16 11:05:00 pid:2652 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:00 pid:2650 worker[none:2652] exit with status 65280
+2017-03-16 11:05:00 pid:2653 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:00 pid:2650 worker[none:2653] exit with status 65280
+2017-03-16 11:05:00 pid:2657 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:00 pid:2650 worker[none:2657] exit with status 65280
+2017-03-16 11:05:01 pid:2658 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:01 pid:2650 worker[none:2658] exit with status 65280
+2017-03-16 11:05:01 pid:2660 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:01 pid:2650 worker[none:2660] exit with status 65280
+2017-03-16 11:05:01 pid:2661 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:01 pid:2650 worker[none:2661] exit with status 65280
+2017-03-16 11:05:02 pid:2662 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:02 pid:2650 worker[none:2662] exit with status 65280
+2017-03-16 11:05:02 pid:2656 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:02 pid:2650 worker[none:2656] exit with status 65280
+2017-03-16 11:05:03 pid:2659 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:03 pid:2650 worker[none:2659] exit with status 65280
+2017-03-16 11:05:03 pid:2663 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:03 pid:2650 worker[none:2663] exit with status 65280
+2017-03-16 11:05:03 pid:2664 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:03 pid:2650 worker[none:2664] exit with status 65280
+2017-03-16 11:05:04 pid:2665 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:04 pid:2650 worker[none:2665] exit with status 65280
+2017-03-16 11:05:04 pid:2666 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:04 pid:2650 worker[none:2666] exit with status 65280
+2017-03-16 11:05:04 pid:2669 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:04 pid:2650 worker[none:2669] exit with status 65280
+2017-03-16 11:05:05 pid:2668 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:05 pid:2650 worker[none:2668] exit with status 65280
+2017-03-16 11:05:05 pid:2671 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:05 pid:2650 worker[none:2671] exit with status 65280
+2017-03-16 11:05:05 pid:2672 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:05 pid:2650 worker[none:2672] exit with status 65280
+2017-03-16 11:05:06 pid:2673 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:06 pid:2650 worker[none:2673] exit with status 65280
+2017-03-16 11:05:06 pid:2667 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:06 pid:2650 worker[none:2667] exit with status 65280
+2017-03-16 11:05:06 pid:2670 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:06 pid:2650 worker[none:2670] exit with status 65280
+2017-03-16 11:05:07 pid:2674 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:07 pid:2650 worker[none:2674] exit with status 65280
+2017-03-16 11:05:07 pid:2675 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:07 pid:2650 worker[none:2675] exit with status 65280
+2017-03-16 11:05:08 pid:2676 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:08 pid:2650 worker[none:2676] exit with status 65280
+2017-03-16 11:05:08 pid:2677 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:08 pid:2650 worker[none:2677] exit with status 65280
+2017-03-16 11:05:08 pid:2678 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:08 pid:2650 worker[none:2678] exit with status 65280
+2017-03-16 11:05:09 pid:2679 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:09 pid:2650 worker[none:2679] exit with status 65280
+2017-03-16 11:05:09 pid:2683 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:09 pid:2650 worker[none:2683] exit with status 65280
+2017-03-16 11:05:09 pid:2680 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:09 pid:2650 worker[none:2680] exit with status 65280
+2017-03-16 11:05:10 pid:2681 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:10 pid:2650 worker[none:2681] exit with status 65280
+2017-03-16 11:05:10 pid:2682 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:10 pid:2650 worker[none:2682] exit with status 65280
+2017-03-16 11:05:10 pid:2687 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:10 pid:2650 worker[none:2687] exit with status 65280
+2017-03-16 11:05:11 pid:2686 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:11 pid:2650 worker[none:2686] exit with status 65280
+2017-03-16 11:05:11 pid:2688 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:11 pid:2650 worker[none:2688] exit with status 65280
+2017-03-16 11:05:11 pid:2685 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:11 pid:2650 worker[none:2685] exit with status 65280
+2017-03-16 11:05:12 pid:2689 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:12 pid:2650 worker[none:2689] exit with status 65280
+2017-03-16 11:05:12 pid:2684 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:12 pid:2650 worker[none:2684] exit with status 65280
+2017-03-16 11:05:12 pid:2690 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:12 pid:2650 worker[none:2690] exit with status 65280
+2017-03-16 11:05:13 pid:2691 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:13 pid:2650 worker[none:2691] exit with status 65280
+2017-03-16 11:05:13 pid:2694 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:13 pid:2650 worker[none:2694] exit with status 65280
+2017-03-16 11:05:13 pid:2692 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:13 pid:2650 worker[none:2692] exit with status 65280
+2017-03-16 11:05:14 pid:2695 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:14 pid:2650 worker[none:2695] exit with status 65280
+2017-03-16 11:05:14 pid:2697 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:14 pid:2650 worker[none:2697] exit with status 65280
+2017-03-16 11:05:14 pid:2699 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/t.php on line 34
+2017-03-16 11:05:14 pid:2650 worker[none:2699] exit with status 65280
+2017-03-16 11:05:15 pid:2650 Workerman[t.php] Stopping ...
+2017-03-16 11:05:15 pid:2650 Workerman[t.php] has been stopped
+2017-03-16 11:06:04 pid:2702 Workerman[t.php] start in DEBUG mode
+2017-03-16 11:06:09 pid:2702 Workerman[t.php] Stopping ...
+2017-03-16 11:06:09 pid:2702 Workerman[t.php] has been stopped
+2017-03-16 11:07:18 pid:2709 Workerman[t.php] start in DEBUG mode
+2017-03-16 11:07:26 pid:2709 Workerman[t.php] Stopping ...
+2017-03-16 11:07:26 pid:2709 Workerman[t.php] has been stopped
+2017-03-16 11:18:04 pid:2747 Workerman[sensitive.sh] start in DEBUG mode
+2017-03-16 11:18:37 pid:2750 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:18:37 pid:2747 worker[none:2750] exit with status 65280
+2017-03-16 11:18:37 pid:2751 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:18:37 pid:2747 worker[none:2751] exit with status 65280
+2017-03-16 11:18:37 pid:2749 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:18:37 pid:2747 worker[none:2749] exit with status 65280
+2017-03-16 11:18:37 pid:2753 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:18:37 pid:2747 worker[none:2753] exit with status 65280
+2017-03-16 11:18:38 pid:2752 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:18:38 pid:2747 worker[none:2752] exit with status 65280
+2017-03-16 11:18:38 pid:2756 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:18:38 pid:2747 worker[none:2756] exit with status 65280
+2017-03-16 11:18:38 pid:2755 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:18:38 pid:2747 worker[none:2755] exit with status 65280
+2017-03-16 11:18:39 pid:2754 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:18:39 pid:2747 worker[none:2754] exit with status 65280
+2017-03-16 11:18:39 pid:2757 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:18:39 pid:2747 worker[none:2757] exit with status 65280
+2017-03-16 11:18:40 pid:2758 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:18:40 pid:2747 worker[none:2758] exit with status 65280
+2017-03-16 11:18:40 pid:2760 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:18:40 pid:2747 worker[none:2760] exit with status 65280
+2017-03-16 11:18:40 pid:2748 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:18:40 pid:2747 worker[none:2748] exit with status 65280
+2017-03-16 11:18:41 pid:2759 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:18:41 pid:2747 worker[none:2759] exit with status 65280
+2017-03-16 11:18:41 pid:2761 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:18:41 pid:2747 worker[none:2761] exit with status 65280
+2017-03-16 11:18:41 pid:2764 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:18:41 pid:2747 worker[none:2764] exit with status 65280
+2017-03-16 11:18:42 pid:2763 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:18:42 pid:2747 worker[none:2763] exit with status 65280
+2017-03-16 11:18:42 pid:2766 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:18:42 pid:2747 worker[none:2766] exit with status 65280
+2017-03-16 11:18:43 pid:2767 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:18:43 pid:2747 worker[none:2767] exit with status 65280
+2017-03-16 11:18:43 pid:2768 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:18:43 pid:2747 worker[none:2768] exit with status 65280
+2017-03-16 11:18:43 pid:2769 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:18:43 pid:2747 worker[none:2769] exit with status 65280
+2017-03-16 11:18:44 pid:2770 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:18:44 pid:2747 worker[none:2770] exit with status 65280
+2017-03-16 11:18:44 pid:2765 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:18:44 pid:2747 worker[none:2765] exit with status 65280
+2017-03-16 11:18:44 pid:2762 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:18:44 pid:2747 worker[none:2762] exit with status 65280
+2017-03-16 11:18:45 pid:2771 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:18:45 pid:2747 worker[none:2771] exit with status 65280
+2017-03-16 11:18:46 pid:2747 Workerman[sensitive.sh] Stopping ...
+2017-03-16 11:18:48 pid:2747 worker[none:2772] exit with status 9
+2017-03-16 11:18:48 pid:2747 Workerman[sensitive.sh] has been stopped
+2017-03-16 11:19:14 pid:2776 Workerman[sensitive.sh] start in DEBUG mode
+2017-03-16 11:19:36 pid:2777 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:36 pid:2776 worker[none:2777] exit with status 65280
+2017-03-16 11:19:36 pid:2780 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:36 pid:2776 worker[none:2780] exit with status 65280
+2017-03-16 11:19:36 pid:2781 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:36 pid:2776 worker[none:2781] exit with status 65280
+2017-03-16 11:19:37 pid:2779 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:37 pid:2776 worker[none:2779] exit with status 65280
+2017-03-16 11:19:37 pid:2783 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:37 pid:2776 worker[none:2783] exit with status 65280
+2017-03-16 11:19:37 pid:2782 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:37 pid:2776 worker[none:2782] exit with status 65280
+2017-03-16 11:19:38 pid:2778 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:38 pid:2776 worker[none:2778] exit with status 65280
+2017-03-16 11:19:38 pid:2784 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:38 pid:2776 worker[none:2784] exit with status 65280
+2017-03-16 11:19:38 pid:2786 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:38 pid:2776 worker[none:2786] exit with status 65280
+2017-03-16 11:19:39 pid:2787 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:39 pid:2776 worker[none:2787] exit with status 65280
+2017-03-16 11:19:39 pid:2789 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:39 pid:2776 worker[none:2789] exit with status 65280
+2017-03-16 11:19:39 pid:2788 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:39 pid:2776 worker[none:2788] exit with status 65280
+2017-03-16 11:19:39 pid:2791 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:40 pid:2776 worker[none:2791] exit with status 65280
+2017-03-16 11:19:40 pid:2785 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:40 pid:2776 worker[none:2785] exit with status 65280
+2017-03-16 11:19:40 pid:2790 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:40 pid:2776 worker[none:2790] exit with status 65280
+2017-03-16 11:19:40 pid:2792 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:40 pid:2776 worker[none:2792] exit with status 65280
+2017-03-16 11:19:41 pid:2793 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:41 pid:2776 worker[none:2793] exit with status 65280
+2017-03-16 11:19:41 pid:2794 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:41 pid:2776 worker[none:2794] exit with status 65280
+2017-03-16 11:19:41 pid:2795 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:41 pid:2776 worker[none:2795] exit with status 65280
+2017-03-16 11:19:42 pid:2796 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:42 pid:2776 worker[none:2796] exit with status 65280
+2017-03-16 11:19:42 pid:2797 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:42 pid:2776 worker[none:2797] exit with status 65280
+2017-03-16 11:19:42 pid:2798 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:42 pid:2776 worker[none:2798] exit with status 65280
+2017-03-16 11:19:43 pid:2799 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:43 pid:2776 worker[none:2799] exit with status 65280
+2017-03-16 11:19:43 pid:2801 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:43 pid:2776 worker[none:2801] exit with status 65280
+2017-03-16 11:19:43 pid:2800 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:43 pid:2776 worker[none:2800] exit with status 65280
+2017-03-16 11:19:44 pid:2802 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:44 pid:2776 worker[none:2802] exit with status 65280
+2017-03-16 11:19:44 pid:2804 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:44 pid:2776 worker[none:2804] exit with status 65280
+2017-03-16 11:19:45 pid:2803 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:45 pid:2776 worker[none:2803] exit with status 65280
+2017-03-16 11:19:45 pid:2805 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:45 pid:2776 worker[none:2805] exit with status 65280
+2017-03-16 11:19:45 pid:2806 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:45 pid:2776 worker[none:2806] exit with status 65280
+2017-03-16 11:19:46 pid:2807 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:46 pid:2776 worker[none:2807] exit with status 65280
+2017-03-16 11:19:46 pid:2808 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:46 pid:2776 worker[none:2808] exit with status 65280
+2017-03-16 11:19:46 pid:2809 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:46 pid:2776 worker[none:2809] exit with status 65280
+2017-03-16 11:19:47 pid:2810 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:47 pid:2776 worker[none:2810] exit with status 65280
+2017-03-16 11:19:47 pid:2811 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:47 pid:2776 worker[none:2811] exit with status 65280
+2017-03-16 11:19:47 pid:2813 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:47 pid:2776 worker[none:2813] exit with status 65280
+2017-03-16 11:19:48 pid:2812 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:48 pid:2776 worker[none:2812] exit with status 65280
+2017-03-16 11:19:48 pid:2815 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:48 pid:2776 worker[none:2815] exit with status 65280
+2017-03-16 11:19:48 pid:2814 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:48 pid:2776 worker[none:2814] exit with status 65280
+2017-03-16 11:19:49 pid:2819 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:49 pid:2776 worker[none:2819] exit with status 65280
+2017-03-16 11:19:49 pid:2817 WORKER EXIT UNEXPECTED E_ERROR Call to undefined method Workerman\Connection\TcpConnection::end() in /opt/webroot/htdocs/focus/sensitive/sensitive.sh on line 37
+2017-03-16 11:19:49 pid:2776 worker[none:2817] exit with status 65280
+2017-03-16 11:19:49 pid:2776 Workerman[sensitive.sh] Stopping ...
+2017-03-16 11:19:49 pid:2776 Workerman[sensitive.sh] has been stopped
+2017-03-16 11:20:27 pid:2825 Workerman[sensitive.sh] start in DEBUG mode
+2017-03-16 11:20:55 pid:2825 Workerman[sensitive.sh] Stopping ...
+2017-03-16 11:20:57 pid:2825 worker[none:2826] exit with status 9
+2017-03-16 11:20:57 pid:2825 Workerman[sensitive.sh] has been stopped
+2017-03-16 11:21:17 pid:2835 Workerman[sensitive.sh] start in DEBUG mode
+2017-03-16 11:22:35 pid:2835 Workerman[sensitive.sh] Stopping ...
+2017-03-16 11:22:35 pid:2835 Workerman[sensitive.sh] has been stopped
+2017-03-16 11:26:06 pid:2851 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 11:26:12 pid:2851 Workerman[filter.sh] Stopping ...
+2017-03-16 11:26:12 pid:2851 Workerman[filter.sh] has been stopped
+2017-03-16 11:27:00 pid:2857 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 11:27:59 pid:2857 Workerman[filter.sh] Stopping ...
+2017-03-16 11:28:00 pid:2857 Workerman[filter.sh] has been stopped
+2017-03-16 11:30:11 pid:2867 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 11:31:36 pid:2867 Workerman[filter.sh] Stopping ...
+2017-03-16 11:31:36 pid:2867 Workerman[filter.sh] has been stopped
+2017-03-16 11:31:47 pid:2873 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 11:32:37 pid:2873 Workerman[filter.sh] Stopping ...
+2017-03-16 11:32:37 pid:2873 Workerman[filter.sh] has been stopped
+2017-03-16 11:34:18 pid:2884 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 11:36:04 pid:2884 Workerman[filter.sh] Stopping ...
+2017-03-16 11:36:04 pid:2884 Workerman[filter.sh] has been stopped
+2017-03-16 11:36:31 pid:2917 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 11:42:08 pid:2917 Workerman[filter.sh] Stopping ...
+2017-03-16 11:42:08 pid:2917 Workerman[filter.sh] has been stopped
+2017-03-16 11:42:11 pid:2925 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 11:44:24 pid:2925 Workerman[filter.sh] Stopping ...
+2017-03-16 11:44:24 pid:2925 Workerman[filter.sh] has been stopped
+2017-03-16 11:44:39 pid:2931 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 11:45:16 pid:2931 Workerman[filter.sh] Stopping ...
+2017-03-16 11:45:16 pid:2931 Workerman[filter.sh] has been stopped
+2017-03-16 11:45:51 pid:2937 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 11:46:26 pid:2937 Workerman[filter.sh] Stopping ...
+2017-03-16 11:46:26 pid:2937 Workerman[filter.sh] has been stopped
+2017-03-16 11:46:30 pid:2942 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 13:40:28 pid:3104 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 13:44:08 pid:3115 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 13:44:47 pid:3115 Workerman[filter.sh] Stopping ...
+2017-03-16 13:44:47 pid:3115 Workerman[filter.sh] has been stopped
+2017-03-16 13:46:22 pid:3143 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 13:46:56 pid:3143 Workerman[filter.sh] Stopping ...
+2017-03-16 13:46:56 pid:3143 Workerman[filter.sh] has been stopped
+2017-03-16 13:47:14 pid:3149 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 13:47:38 pid:3149 Workerman[filter.sh] Stopping ...
+2017-03-16 13:47:38 pid:3149 Workerman[filter.sh] has been stopped
+2017-03-16 13:49:17 pid:3155 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 13:49:30 pid:3155 Workerman[filter.sh] Stopping ...
+2017-03-16 13:49:30 pid:3155 Workerman[filter.sh] has been stopped
+2017-03-16 13:50:08 pid:3162 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 13:50:12 pid:3163 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:13 pid:3166 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:13 pid:3164 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:13 pid:3165 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:14 pid:3167 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:14 pid:3168 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:14 pid:3169 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:15 pid:3170 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:15 pid:3171 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:16 pid:3172 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:16 pid:3173 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:16 pid:3174 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:17 pid:3175 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:17 pid:3176 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:18 pid:3177 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:18 pid:3178 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:18 pid:3179 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:19 pid:3180 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:19 pid:3181 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:19 pid:3182 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:20 pid:3183 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:20 pid:3184 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:20 pid:3185 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:21 pid:3188 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:21 pid:3187 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:22 pid:3186 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:22 pid:3189 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:22 pid:3190 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:23 pid:3192 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:23 pid:3194 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:23 pid:3195 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:24 pid:3196 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:24 pid:3191 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:25 pid:3193 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:25 pid:3197 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:25 pid:3199 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:26 pid:3201 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:26 pid:3202 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:26 pid:3200 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:27 pid:3198 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:27 pid:3204 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:28 pid:3203 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:28 pid:3205 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:28 pid:3208 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:29 pid:3207 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:29 pid:3206 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:29 pid:3209 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:30 pid:3210 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:30 pid:3211 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:31 pid:3212 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:31 pid:3213 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:31 pid:3214 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:32 pid:3215 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:32 pid:3216 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:32 pid:3219 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:33 pid:3218 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:33 pid:3221 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:34 pid:3222 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:34 pid:3223 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:34 pid:3224 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:35 pid:3225 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:44 pid:3217 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:44 pid:3226 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:45 pid:3227 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:45 pid:3220 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:45 pid:3228 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:46 pid:3229 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:46 pid:3230 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:47 pid:3231 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:47 pid:3232 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:47 pid:3233 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:48 pid:3234 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:48 pid:3235 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:48 pid:3236 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:49 pid:3237 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:49 pid:3240 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:49 pid:3239 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:50 pid:3238 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:50 pid:3243 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:50 pid:3242 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:51 pid:3241 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:51 pid:3244 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:51 pid:3245 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:52 pid:3246 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:52 pid:3247 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:53 pid:3248 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:53 pid:3249 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:53 pid:3250 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:54 pid:3251 WORKER EXIT UNEXPECTED 
+2017-03-16 13:50:54 pid:3162 Workerman[filter.sh] Stopping ...
+2017-03-16 13:50:54 pid:3162 Workerman[filter.sh] has been stopped
+2017-03-16 13:51:03 pid:3257 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 13:51:39 pid:3257 Workerman[filter.sh] Stopping ...
+2017-03-16 13:51:39 pid:3257 Workerman[filter.sh] has been stopped
+2017-03-16 13:51:48 pid:3266 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 13:52:14 pid:3266 Workerman[filter.sh] Stopping ...
+2017-03-16 13:52:14 pid:3266 Workerman[filter.sh] has been stopped
+2017-03-16 13:52:25 pid:3272 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 13:52:32 pid:3272 Workerman[filter.sh] Stopping ...
+2017-03-16 13:52:32 pid:3272 Workerman[filter.sh] has been stopped
+2017-03-16 13:53:27 pid:3278 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 13:54:44 pid:3278 Workerman[filter.sh] Stopping ...
+2017-03-16 13:54:44 pid:3278 Workerman[filter.sh] has been stopped
+2017-03-16 13:54:55 pid:3284 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 13:55:23 pid:3284 Workerman[filter.sh] Stopping ...
+2017-03-16 13:55:23 pid:3284 Workerman[filter.sh] has been stopped
+2017-03-16 13:55:40 pid:3290 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 13:58:48 pid:3290 Workerman[filter.sh] Stopping ...
+2017-03-16 13:58:48 pid:3290 Workerman[filter.sh] has been stopped
+2017-03-16 14:12:36 pid:3361 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 14:14:10 pid:3361 Workerman[filter.sh] Stopping ...
+2017-03-16 14:14:10 pid:3361 Workerman[filter.sh] has been stopped
+2017-03-16 14:15:14 pid:3391 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 14:15:34 pid:3391 Workerman[filter.sh] Stopping ...
+2017-03-16 14:15:34 pid:3391 Workerman[filter.sh] has been stopped
+2017-03-16 14:16:01 pid:3397 Workerman[filter.sh] start in DEBUG mode
+2017-03-16 14:16:11 pid:3397 Workerman[filter.sh] Stopping ...
+2017-03-16 14:16:11 pid:3397 Workerman[filter.sh] has been stopped
